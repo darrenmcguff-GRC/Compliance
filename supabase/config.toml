@@ -1,0 +1,5 @@
+project_id = "ciso-insight-tool"
+[api]
+enabled = true
+port = 8000
+schemas = []
